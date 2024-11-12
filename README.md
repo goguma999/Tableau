@@ -50,7 +50,7 @@
 <img src="image/수도권_기타_비율.png" alt="수도권_기타_비율" width="400"/>    
 
 ## 15. 고객별 매출 순위 그래프   
-<img src="image/고객_매출_순위.png" alt="고객_매출_순위" width="400"/>    
+<img src="image/고객_매출_순위.png" alt="고객_매출_순위" width="350"/>    
 
 
 
