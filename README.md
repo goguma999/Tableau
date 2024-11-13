@@ -58,6 +58,8 @@
 ## 17. 파이 차트  
 <img src="image/파이차트.png" alt="파이차트" width="400"/> 
 
+## 18. 도넛 차트  
+<img src="image/도넛차트.png" alt="도넛차트" width="400"/> 
 
 
 
