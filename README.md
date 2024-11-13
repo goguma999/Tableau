@@ -55,6 +55,8 @@
 ## 16. 박스 그래프   
 <img src="image/박스그래프.png" alt="박스그래프" width="400"/>     
 
+## 17. 파이 차트  
+<img src="image/파이차트.png" alt="파이차트" width="400"/> 
 
 
 
