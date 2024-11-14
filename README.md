@@ -64,4 +64,10 @@
 ## 19. 산포도 그래프와 추세선 
 <img src="image/분산형차트.png" alt="분산형차트" width="400"/> 
 
+## 20. 트리맵
+<div style="display: flex; justify-content: space-between;">
+    <img src="image/트리맵1.png" alt="트리맵1" width="30%"/>
+    <img src="image/트리맵2.png" alt="트리맵2" width="30%"/>
+    <img src="image/트리맵3.png" alt="트리맵3" width="30%"/>
+</div>
 
