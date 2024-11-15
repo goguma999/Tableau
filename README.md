@@ -85,3 +85,7 @@
 
 ## 24. 라인 하이라이트 차트 
 <img src="image/라인하이라이트.png" alt="라인하이라이트" width="400"/>  
+
+## 25. 활용
+<img src="image/chatgpt이후일감수변화.png" alt="chatgpt이후일감수변화" width="400"/>  
+
